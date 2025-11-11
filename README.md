@@ -22,19 +22,19 @@ Abaixo estão os prints de tela que documentam as principais etapas do processo.
 
 Este é o arquivo `.csv` contendo os dados simulados que foram importados para o banco.
 
-![alt text](Imagens\image.png)
+![Print do arquivo CSV](Imagens/image.png)
 
 ### Print 2: Tela de Importação (Opcional)
 
 Print do assistente de importação de dados no Oracle SQL Developer.
 
-![alt text](Imagens\import_dados.png)
+![Print da importação](Imagens/import_dados.png)
 
 ### Print 3: Consulta SQL (Obrigatório)
 
 Este print demonstra a conexão bem-sucedida e a consulta `SELECT *` na tabela criada, provando que os dados da Fase 2 agora estão persistidos no banco de dados Oracle.
 
-![alt text](Imagens\Funcionando.png)
+![Print da consulta SQL](Imagens/funcionando.png)
 
 
 ## 3. Vídeo de Demonstração
