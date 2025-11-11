@@ -41,7 +41,7 @@ Este print demonstra a conexão bem-sucedida e a consulta `SELECT *` na tabela c
 
 O vídeo abaixo (YouTube, não listado) mostra o repositório organizado e a consulta ao banco de dados Oracle funcionando em tempo real.
 
-`[[Link para o seu vídeo de 5 min no YouTube]](https://youtu.be/-w4WnTsVps8)`
+https://youtu.be/-w4WnTsVps8
 
 ## 4. Código-Fonte (Fase 2)
 
