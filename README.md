@@ -24,13 +24,13 @@ Este é o arquivo `.csv` contendo os dados simulados que foram importados para o
 
 ![Print do arquivo CSV](Imagens/image.png)
 
-### Print 2: Tela de Importação (Opcional)
+### Print 2: Tela de Importação 
 
 Print do assistente de importação de dados no Oracle SQL Developer.
 
 ![Print da importação](Imagens/import_dados.png)
 
-### Print 3: Consulta SQL (Obrigatório)
+### Print 3: Consulta SQL 
 
 Este print demonstra a conexão bem-sucedida e a consulta `SELECT *` na tabela criada, provando que os dados da Fase 2 agora estão persistidos no banco de dados Oracle.
 
