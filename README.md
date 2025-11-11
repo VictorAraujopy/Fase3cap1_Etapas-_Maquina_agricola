@@ -8,7 +8,7 @@ Nesta terceira fase, o objetivo foi estruturar e persistir os dados coletados pe
 
 O trabalho seguiu os seguintes passos, conforme o tutorial fornecido:
 
-1.  **Criação do Arquivo de Dados:** Como o projeto da Fase 2 consistia em uma simulação interativa com o ESP32, foi gerado um arquivo `dados_fase2.csv` manual para simular o "log" de dados que os sensores teriam coletado em campo.
+1.  **Criação do Arquivo de Dados:** Como o projeto da Fase 2 consistia em uma simulação interativa com o ESP32, foi gerado um arquivo `dados_sensores.csv` para simular o "log" de dados que os sensores teriam coletado em campo.
 2.  **Conexão com Oracle:** Foi estabelecida a conexão com o banco de dados Oracle da FIAP (`oracle.fiap.com.br`) utilizando o Oracle SQL Developer e as credenciais de aluno (RM e data de nascimento).
 3.  **Importação de Dados:** Utilizou-se o assistente de importação de dados ("Importa Dados...") para carregar o arquivo `dados_fase2.csv`.
 4.  **Definição da Tabela:** Durante a importação, foi criada a tabela `DADOS_SENSORES` (ou o nome que você usou) para armazenar as leituras de umidade, pH (LDR), status dos nutrientes (N, P, K) e o acionamento da bomba.
