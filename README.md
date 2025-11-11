@@ -34,7 +34,7 @@ Print do assistente de importação de dados no Oracle SQL Developer.
 
 Este print demonstra a conexão bem-sucedida e a consulta `SELECT *` na tabela criada, provando que os dados da Fase 2 agora estão persistidos no banco de dados Oracle.
 
-![Print da consulta SQL](Imagens/funcionando.png)
+![Print da consulta SQL](Imagens/Funcionando.png)
 
 
 ## 3. Vídeo de Demonstração
